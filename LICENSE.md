@@ -1,4 +1,4 @@
-# 
+# Official Bitdefender Total Security scripts for Mac OS | Automatic Bitdefender Total Security scripts for PC Windows. Featuring behavior monitoring and traffic analysis — optimized for maximum performance on every platform.
 
 
 
